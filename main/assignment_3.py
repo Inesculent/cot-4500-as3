@@ -292,7 +292,6 @@ if __name__ == "__main__":
     matrixU = UL(matrixU)
 
 
-
     print(matrixU, "\n")
 
     matrix = np.array([[9,0,5,2,1], 
