@@ -1,31 +1,15 @@
 Dylan Dinh
 
-1/19/2023
+4/2/23
 
-This is the intro assignment for COT4500. It is also my first time
-ever coding in python so some of the methods utilized may not be the 
-most efficient or optimal. 
+This is assignment 3 for COT4500
 
-The sole requirement for the code to function is the use of numpy, which is on version 1.24.1 as stated in the requirements txt file.
+The sole requirement of this file to run is numpy
 
-To execute the code, simply type:
+The program will utilize different methods to manipulate and gather information on certain matricies, as learned in the
+Numerical Calculus Course
 
-python "path/intro_to_python.py"
-
-into the command prompt
+In order to run the file, simply type
 
 
-The result should return:
-
-[[1 0 0]
- [0 1 0]
- [0 0 1]]
-
-[[1 3 3]
- [3 1 3]
- [3 3 1]]
-
-[[1 3]
- [3 1]
- [3 3]]
- 
+python "path/assignment_3.py" into the terminal
